@@ -1,0 +1,7 @@
+/* Stock GitHub UI */
+.js-pull-request-menu label:nth-child(1) {
+    display: none !important;
+}
+
+/* Refined GitHub */
+button[name="draft"][value="off"] { display: none !important; }
